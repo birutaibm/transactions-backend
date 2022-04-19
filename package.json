@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "express": "^4.17.3",
-    "uuidv4": "^6.2.12"
+    "uuidv4": "^6.2.13"
   }
 }
